@@ -59,7 +59,8 @@ export default {
 			},
 			boxShadow: {
 				'glow': 'var(--shadow-glow)',
-				'card': 'var(--shadow-card)'
+				'card': 'var(--shadow-card)',
+				'logo-glow': 'var(--logo-glow)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
